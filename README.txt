@@ -1,0 +1,1 @@
+Upload all files/folders in this package together to a static HTTPS host. Open the hosted URL in Safari, then Share > Add to Home Screen. After the first successful load, the service worker caches the app for offline use.
